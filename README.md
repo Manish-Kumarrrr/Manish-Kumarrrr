@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [WorkHub](https://github.com/Manish-Kumarrrr/WorkHub_UI) a microservice project.
+- 🔭 I’m currently working on [WorkHub](https://github.com/Manish-Kumarrrr/WorkHub_UI) a microservice project and Blockchain Technology.
 
 - 🌱 I’m exploring **System Design, AWS**
 
