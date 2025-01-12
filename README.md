@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mkumar.work24@gmail.com**
 
-- ⚡ Fun fact **I think, Stack overflow is my Strom Breaker.**
+- ⚡ Fun fact **I think, Stack overflow is my Stormbreaker.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
