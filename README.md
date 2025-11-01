@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mkumar.work24@gmail.com**
 
-- ⚡ Fun fact **I build apps so secure even hackers say 'nah, too much work' — and so scalable they could host a global dance party without breaking a sweat.**
+- ⚡ Fun fact **🧠 I love to build application so much, my keyboard thinks it's in a toxic relationship.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
